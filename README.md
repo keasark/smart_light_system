@@ -4,7 +4,7 @@
 - Team Members: Tulin E. Ozcetin, Mai X. Tran, Maria R. Urdaneta, and Mohamad El Helou
 - Department: Engineering Center of Excellence, Houston Community College
 - Course: ENGR 1201: Introduction to Engineering
-- Professor: Juurong Hsieh
+- Professor: Dr. Juurong Hsieh
 - Date: November 19, 2024
 
 ## Introduction
